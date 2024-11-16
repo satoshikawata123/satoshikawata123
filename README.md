@@ -16,3 +16,5 @@
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20satoshikawata123)](https://github.com/satoshikawata123)
 
 [![github-chart](https://github-chart.vercel.app/api?user=satoshikawata123)](https://github.com/satoshikawata123/github-chart)
+
+<img alt="SNQ-2001" src="img/header.svg" width="98.2%" height="100%">
