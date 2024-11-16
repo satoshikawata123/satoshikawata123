@@ -1,9 +1,4 @@
-## Hi there 👋
 
-<!--
-**satoshikawata123/satoshikawata123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satoshikawata123&theme=2077)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=satoshikawata123&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
@@ -61,18 +56,3 @@ Here are some ideas to get you started:
 </svg>
 
 <img alt="SNQ-2001" src="img/header.svg" width="98.2%" height="100%">
-
-
-
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
