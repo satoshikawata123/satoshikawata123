@@ -1,5 +1,7 @@
 <img alt="SNQ-2001" src="header.svg" width="98.2%" height="100%">
 
+- [Personal Website](https://satkattaktas.link/)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satoshikawata123&theme=2077)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=satoshikawata123&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
