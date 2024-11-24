@@ -1,6 +1,7 @@
 <img alt="SNQ-2001" src="header.svg" width="98.2%" height="100%">
 
-- [Personal Website](https://satkattaktas.link/)
+- [個人技術ブログ](https://satkattaktas.link/)
+- [Atcoder_myアカウント](https://atcoder.jp/users/satoshi_k)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satoshikawata123&theme=2077)
 
